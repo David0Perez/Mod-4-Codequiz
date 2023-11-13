@@ -39,7 +39,7 @@
         display: inline-block;
         font-family: kalam;
         background-color: transparent;
-        border-radius: 10px;
+        border-radius: 10px 0 10px 0;
         border: 1px;
         color: darkgreen;
         text-align: center;
@@ -130,7 +130,7 @@
     
     #highscore-score{
         float: right;
-        padding-right: 85px
+        padding-right: 85px;
         font-family: sans-serif;
         font-weight: bold;
     }
